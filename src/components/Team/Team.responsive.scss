@@ -1,0 +1,14 @@
+@media screen and (max-width: 1440px) {
+	.volunteers {
+		width: 90%;
+		margin: 0 auto;
+
+		.volunteer {
+			grid-gap: 50px 0;
+
+			img {
+				width: 200px;
+			}
+		}
+	}
+}

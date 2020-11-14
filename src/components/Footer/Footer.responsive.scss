@@ -1,0 +1,15 @@
+@media screen and (max-width: 1440px) {
+	.footer {
+		&__top {
+			padding: 50px 4.5em;
+
+			&__description {
+				flex: 1;
+			}
+		}
+
+		&__bottom {
+			padding: 15px 4.5em;
+		}
+	}
+}
